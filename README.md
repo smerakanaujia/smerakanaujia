@@ -3,7 +3,7 @@
 
 
 - 👀 I’m interested in learning about artificial intellegence, programming and computer graphics.
-- 💞️ I’m looking for on projects related to gaming and website development in python.
+- 💞️ I’m looking for projects related to gaming and website development in python.
 
 - 📫 How to reach me: smera.kanaujia@gmail.com
 
