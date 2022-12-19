@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @smerakanaujia
-- 👀 I’m interested in artificial intellegence, programming and computer graphics
-- 🌱 I’m currently studying in 10th grade in Kolkata, India
-- 💞️ I’m looking to collaborate on projects related to gaming and website development in python
+- 🌱 I’m 15 years old and studying in 10th grade in Kolkata, India
+
+
+- 👀 I’m interested in learning about artificial intellegence, programming and computer graphics.
+- 💞️ I’m looking for on projects related to gaming and website development in python.
+
 - 📫 How to reach me: smera.kanaujia@gmail.com
 
 <!---
