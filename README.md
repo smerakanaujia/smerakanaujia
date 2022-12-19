@@ -2,8 +2,7 @@
 - 👀 I’m interested in artificial intellegence, programming and computer graphics
 - 🌱 I’m currently studying in 10th grade in Kolkata, India
 - 💞️ I’m looking to collaborate on projects related to gaming and website development in python
-- 📫 How to reach me: mail: smera.kanaujia@gmail.com
--                    instagram: smera_kanaujia
+- 📫 How to reach me: smera.kanaujia@gmail.com
 
 <!---
 smerakanaujia/smerakanaujia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
